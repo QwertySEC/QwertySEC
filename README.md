@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Привет, я QwertySEC
 
-<!--
-**QwertySEC/QwertySEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏗️ Из инженерного строительства в Кибербезопасность 🛡️
 
-Here are some ideas to get you started:
+Я профессиональный инженер-проектировщик и руководитель проектов в строительной сфере, который сейчас активно переходит в **Information Security**. Мой девиз: «Проектирую системы с нуля, защищаю их до конца».
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛡️ Что я сейчас делаю в ИБ:
+* **Изучаю:** Основы сетей (Network Fundamentals) и администрирование Linux.
+* **Практикуюсь:** Активно прохожу лабы на [TryHackMe](https://tryhackme.com/dashboard).
+* **Цель:** Стать востребованным Security Analyst, используя свой технический бэкграунд.
+
+### 💼 Мой опыт в инженерии:
+* **Foreman & Manager:** Управление субподрядчиками, организация процессов на объектах.
+* **Engineering Systems:** Проектирование электроснабжения, водоснабжения и отопления.
+* **Estimation:** Работа со сметами и точными расчетами (Excel — мой старый друг).
+
+---
+
+### 📢 Моё «публичное обучение»:
+Я веду Telegram-канал, где честно рассказываю о своем пути, делюсь конспектами по сетям и успехами (и фейлами) в обучении: 
+👉 **[@QwertySEC](https://t.me/QwertySEC)**
+
+---
+**Связь со мной:**
+[Telegram](https://t.me/QwertySEC | [Habr](QwertySEC#)
